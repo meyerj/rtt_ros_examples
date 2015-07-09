@@ -1,0 +1,23 @@
+<package>
+  <description brief="test_msgs">
+
+     rtt_test_msgs
+
+  </description>
+  <author>Intermodalics</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/rtt_test_msgs</url>
+
+  <depend package="rtt_roscomm"/>
+  <depend package="test_msgs"/>
+
+  <export>
+    <rtt_ros>
+      <plugin_depend>rtt_ros</plugin_depend>
+    </rtt_ros>
+  </export>
+
+</package>
+
+

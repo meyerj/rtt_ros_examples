@@ -1,0 +1,14 @@
+<package>
+  <description brief="test_msgs">
+
+     test_msgs
+
+  </description>
+  <author>Intermodalics</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/test_msgs</url>
+
+</package>
+
+
